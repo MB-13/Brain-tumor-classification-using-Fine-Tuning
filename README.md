@@ -7,5 +7,5 @@ Then in brain-tumor-2 I have retrained the same dataset but this time by creatin
 <br><br>
 
 <h2><b>Results</b></h2>
-Sequential Model: Maximum Accuracy of 83%<br>
-Functional API Model: Improved Accuracy of 92%
+<b>Sequential Model</b>: Maximum Accuracy of 83%<br>
+<b>Functional API Model</b>b: Improved Accuracy of 92%
