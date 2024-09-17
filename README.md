@@ -6,6 +6,6 @@ It got an accuracy of maximum 83% which can be increased with good resources and
 Then in brain-tumor-2 I have retrained the same dataset but this time by creating same architecture with functional api rather than using keras Sequential model. And it had increased the accuracy to around 92%.
 <br><br>
 
-Results
-Sequential Model: Maximum Accuracy of 83%
+<h2><b>Results</b></h2>
+Sequential Model: Maximum Accuracy of 83%<br>
 Functional API Model: Improved Accuracy of 92%
